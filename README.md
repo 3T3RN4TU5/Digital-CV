@@ -6,6 +6,8 @@ A one-page CV for a full-stack developer covering MERN, REST APIs, data analytic
 
 ![Dark hero with the name JEEVAN over a Three.js particle field](docs/screenshot.jpg)
 
+![Animated demo: scrolling through the digital CV](docs/demo.gif)
+
 ## Built with
 
 A single `index.html` with HTML, CSS, JavaScript and Three.js (r128, from a CDN).
